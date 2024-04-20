@@ -5,7 +5,7 @@
     - Gather transactional data including sales records, customer information, product details, and website traffic statistics.
     - Utilize web scraping tools to collect data from competitor websites for benchmarking and market analysis.
 * Data Preprocessing:
-    - Cleansing  and standardizing  the data to remove duplicates, correct errors, and handle missing values.
+    - Cleansing  and standardizing  the data to remove duplicates, correct errors, and handle missing values. 
     - Transform raw data into a structured format suitable for analysis, including normalization and categorization of variables.
 * Exploratory Data Analysis (EDA):
     - Conducting  descriptive statistics to understand the distribution and characteristics of the data.
